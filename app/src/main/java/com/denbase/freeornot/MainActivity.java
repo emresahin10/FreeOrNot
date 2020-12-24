@@ -89,7 +89,6 @@ public class MainActivity extends AppCompatActivity {
                             imgSonuc.setImageResource(R.drawable.ic_yasak);
                         }
                     }
-
                 }
             }
         });
